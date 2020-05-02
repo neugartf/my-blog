@@ -3,13 +3,9 @@ module.exports = {
     title: `Hellow.`,
     author: {
       name: `Fabian Neugart`,
-<<<<<<< HEAD
       summary: `who lives and works in Barcelona.`,
-=======
-      summary: `who lives and works in San Francisco building useful things.`,
->>>>>>> b22ef3646c64553588bc1769b4d585e2847cd4ab
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: ``,
     siteUrl: `https://neugartf.netlify.app/`,
     social: {
       twitter: `_ngt__`,

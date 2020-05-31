@@ -33,6 +33,6 @@ Once you have registered, it makes sense to use the official mobile app to gener
 
 Now you could go ahead the use the tax office's not so marvelous web tool, but why would you do this in 2020? Luckily last year, some guys in Madrid came up with the idea of creating an app named [taxdown](http://taxdown.es) for doing the taxes in an easier and faster way, which I would recommend to use. They are an official partner of the Spanish tax office, thus you must use your Cl@ve PIN. Unfortunately, it is only available in Spanish, but the whole process is based on really easy to understand questions, which will guide you through it.
 
-![](/assets/image-20200512002139466.png)
+![](../assets/image-20200512002139466.png)
 
 It doesn't come as a surprise that they do have to make some money, so they will charge you 35 Euros if you save more than that amount compared to the official web tool. I think this is a fair deal.

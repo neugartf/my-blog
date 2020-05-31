@@ -2,7 +2,7 @@ backend:
   name: github
   repo: neugartf/my-blog
 
-media_folder: static/assets
+media_folder: content/assets
 public_folder: /assets
 
 collections:

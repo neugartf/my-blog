@@ -31,7 +31,6 @@ module.exports = {
       options: {
         plugins: [
            "@weknow/gatsby-remark-twitter",
-           `gatsby-remark-images-zoom`,
           {
               resolve: 'gatsby-remark-emojis',
               options: {
@@ -56,6 +55,9 @@ module.exports = {
               maxWidth: 590,
               linkImagesToOriginal: false,
             },
+          },
+          {
+            resolve: `gatsby-remark-images-medium-zoom`,
           },
           {
             resolve: `gatsby-remark-responsive-iframe`,

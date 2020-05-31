@@ -11,7 +11,14 @@ module.exports = {
       twitter: `_ngt__`,
     },
   },
-  plugins: [
+  plugins: [{
+    resolve: `gatsby-plugin-goatcounter`,
+     options: {
+       code: 'neugartf',
+       referrer: true,
+       allowLocal: false,
+     }
+   },
     {
       resolve: `gatsby-source-filesystem`,
       options: {

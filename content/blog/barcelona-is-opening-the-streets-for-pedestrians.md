@@ -27,20 +27,14 @@ Fast-forwarding to May 2020: Major cities in all around the world have announced
 
 ![](/assets/covid_19.jpg)
 
-You can see that, though they have moved Carrer Aragó from the list, this plan is far more advanced since it keeps out motorized traffic througout the whole weekend for even more streets and the whole Montjuic. This is especially interesting for a street like *Carrer de Sants*, which is claimed to be the Europe's longest commercial road [3], and has 4 lanes with a speed limit 50 km/h (which is mostly ignored) running through it. You can imagine how much "phun" it is be to go shopping with this noise and the induced stress. 
+You can see that, though they have moved Carrer Aragó from the list, this plan is far more advanced since it keeps out motorized traffic througout the whole weekend for even more streets and the whole Montjuic. This is especially interesting for a street like *Carrer de Sants*, which is claimed to be the Europe's longest commercial road [3], and has 4 lanes with a speed limit 50 km/h (which is mostly ignored) running through it. You can imagine how much "phun" it is be to go shopping with this noise and the induced stress.
 
 ![](/assets/MVIMG_20200530_133911.jpg)
 *Carrer de Sants on a Saturday during phase 1 after the corona-virus outbreak*
 
 What is interesting to recognize is that the association of the shops owners on that street is in favor of this! It really needed a pandemic to initiate this and the local politians will try to keep that state even after everything will back to normal.
 
-<blockquote  class="twitter-tweet"><p lang="ca" dir="ltr">👏Es consolida la  veïntzació del Carrer Creu Coberta i Sants!!<br><br>Volem  que la nova normalitat es consolidi des del protagonisme dels barris,  del comerç de proximitat, la mobilitat sostenible i la cooperació  econòmica.<a  href="https://twitter.com/hashtag/BarcelonaCiutatInnovadora?src=hash&amp;ref_src=twsrc%5Etfw">#BarcelonaCiutatInnovadora</a>  <a  href="https://twitter.com/hashtag/SantsVe%C3%AFnal?src=hash&amp;ref_src=twsrc%5Etfw">#SantsVeïnal</a>  <a  href="https://t.co/5XVk8k0RYX">https://t.co/5XVk8k0RYX</a></p>&mdash;  Ancor Mesa Méndez (@ancormesa) <a  href="https://twitter.com/ancormesa/status/1266762580401500161?ref_src=twsrc%5Etfw">May  30, 2020</a></blockquote> 
-
-
-
-
-
-
+https://twitter.com/ancormesa/status/1266762580401500161
 
 ---
 

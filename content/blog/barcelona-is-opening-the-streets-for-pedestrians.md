@@ -17,7 +17,7 @@ The following streets were selected:
 
 ![](/assets/closed_streets_obrem_carrers.png)
 
-If you check the map you will see that this itself was a bold move, since it prevents cars from using some of the major axis in Barcelona. Especially the (green colored) *Carrer Aragó* is a much used artery to get in a car from nordeast to southwest. Data from 2018 tells us that on a normal work day 85.000 vehicles use that street [1]. Unfortunately, there is no data for weekends, so we can't really say how many motorized vehicles were forced to use a different route while the street was closed.
+If you check the map you will see that this itself was a bold move, since it prevents cars from using some of the major axis in Barcelona. Especially the (green colored) *Carrer Aragó* is a much used artery to get in a car from nordeast to southwest. Data from 2018 tells us that on a normal work day 85.000 vehicles use that street [^1]. Unfortunately, there is no data for weekends, so we can't really say how many motorized vehicles were forced to use a different route while the street was closed.
 
 This whole event took place only once before Corona put plans to an abrupt hold, but that one time was a success in terms visitors. The streets were full of people strolling around. [2]
 
@@ -40,7 +40,7 @@ https://twitter.com/ancormesa/status/1266762580401500161
 
 https://www.barcelona.cat/obrimcarrers/en
 
-[1] https://www.bcn.cat/estadistica/castella/dades/anuari/cap15/C1511010.htm
+[^1]: https://www.bcn.cat/estadistica/castella/dades/anuari/cap15/C1511010.htm
 
 [2] https://www.elperiodico.com/es/barcelona/20200308/calle-arago-sin-coches-obrim-carrers-7880527
 

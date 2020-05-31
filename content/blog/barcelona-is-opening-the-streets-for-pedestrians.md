@@ -51,5 +51,3 @@ https://www.barcelona.cat/obrimcarrers/en
 [2] https://www.elperiodico.com/es/barcelona/20200308/calle-arago-sin-coches-obrim-carrers-7880527
 
 [3] https://en.wikipedia.org/wiki/Carrer_de_Sants,_Barcelona
-
-[4]

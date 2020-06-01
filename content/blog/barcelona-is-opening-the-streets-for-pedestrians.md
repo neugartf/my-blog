@@ -28,7 +28,7 @@ Fast-forwarding to May 2020: Major cities all around the world have announced pl
 
 ![](../assets/covid_19.jpg)
 
-You can see that, though they have moved *Carrer Aragó* from the list, this plan is far more advanced since it keeps out motorized traffic throughout the whole weekend (from 9 am to 9 pm) for even more streets and the whole Montjuic. This is especially interesting for a street like *Carrer de Sants*, which is claimed to be Europe's longest commercial road [^4](https://en.wikipedia.org/wiki/Carrer_de_Sants,_Barcelona), and has 4 lanes with a speed limit 50 km/h (which is mostly ignored) running through it. You can imagine how much "phun" it is to go shopping with this noise and the induced stress.
+You can see that, though they have moved *Carrer Aragó* from the list, this plan is far more advanced since it keeps out motorized traffic throughout the whole weekend for even more streets and the whole Montjuic. This is especially interesting for a street like *Carrer de Sants*, which is claimed to be Europe's longest commercial road [^4](https://en.wikipedia.org/wiki/Carrer_de_Sants,_Barcelona), and has 4 lanes with a speed limit 50 km/h (which is mostly ignored) running through it. You can imagine how much "phun" it is to go shopping with this noise and the induced stress.
 
 ![](../assets/MVIMG_20200530_133911.jpg) *Carrer de Sants on a Saturday during phase 1 after the corona-virus outbreak*
 

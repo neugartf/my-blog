@@ -1,0 +1,17 @@
+baseURL: 'https://blog.neugartf.com/'
+languageCode: en-us
+title: Hellow.
+theme: PaperMod
+
+params:
+  homeInfoParams:
+        Title: Hi there 👋
+        Content: I'm Fabian Neugart. Welcome to my blog!
+  socialIcons:
+    - name: mastodon
+      url: "https://mastodon.green/@ngt"
+    - name: twitter
+      url: "https://mobile.twitter.com/_ngt__"
+    - name: github
+      url: "https://github.com/neugartf"
+  ShowCodeCopyButtons: true

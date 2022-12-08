@@ -34,4 +34,4 @@ You can see that, though they have moved *Carrer Aragó* from the list, this pla
 
 What is interesting to recognize is that the association of the shop owners on that street is in favor of this! It needed a pandemic to initiate this and the local politicians will try to keep that state even after everything will back to normal.
 
-https://twitter.com/ancormesa/status/1266762580401500161
+{{< tweet user="ancormesa" id="1266762580401500161" >}}

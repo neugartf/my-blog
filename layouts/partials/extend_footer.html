@@ -2,3 +2,14 @@
         <script data-goatcounter="https://{{ .Site.Params.GoatCounterCode }}.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
         {{ end }}
 
+<script>
+  if (window.netlifyIdentity) {
+      window.netlifyIdentity.on("init", user => {
+          if (!user) {
+              window.netlifyIdentity.on("login", () => {
+                  document.location.href = "/admin/";
+              });
+          }
+      });
+  }
+</script>

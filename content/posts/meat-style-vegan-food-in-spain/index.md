@@ -1,12 +1,12 @@
 ---
 path: meat-style-vegan-food-in-spanish-supermarkets
-date: 2020-07-27T22:24:28.444Z
 title: Meat style vegan food in Spanish supermarkets
+date: 2020-07-27T22:24:28.444Z
 description: A short overview on what's available in Spain in terms of meat substitutes.
 ---
 ## Meat in Spain
 
-Meat has always had a important role in the Spanish cuisine, as it has in many other European dishes. Most people will know of the famous [jamón ibérico](https://en.wikipedia.org/wiki/Jam%C3%B3n_ib%C3%A9rico) or the [chorizo](https://en.wikipedia.org/wiki/Chorizo). So  it comes to no surprise that it also ranks in the top 10 countries with the most meat consumption per capita. It also produces vast amount of pork, of which it exports a large portion of it.
+Meat has always had an important role in the Spanish cuisine, as it has in many other European dishes. Most people will know of the famous [jamón ibérico](https://en.wikipedia.org/wiki/Jam%C3%B3n_ib%C3%A9rico) or the [chorizo](https://en.wikipedia.org/wiki/Chorizo). So  it comes to no surprise that it also ranks in the top 10 countries with the most meat consumption per capita. It also produces vast amount of pork, of which it exports a large portion of it.
 
 ![](https://cdn.statcdn.com/Infographic/images/normal/17150.jpeg)
 

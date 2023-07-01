@@ -2,7 +2,10 @@ baseURL: 'https://blog.neugartf.com/'
 languageCode: en-us
 title: Hellow.
 theme: PaperMod
-
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 params:
   homeInfoParams:
         Title: Hi there 👋

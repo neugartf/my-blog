@@ -139,3 +139,4 @@ We hope that with this article we can spark more advances in the Android testing
 [^2]: https://dagger.dev/
 [^3]: https://kotlinlang.org/docs/java-interop.html#null-safety-and-platform-types
 [^4]: Droid asset by [Nicky Lim](https://icon-icons.com/users/ah334sOoBVVE7GXS94Who/icon-sets/ "Designer"); [CC 4.0](https://creativecommons.org/licenses/by/4.0/)
+[^5]: https://en.wikipedia.org/wiki/X86_virtualization#Intel_virtualization_(VT-x)

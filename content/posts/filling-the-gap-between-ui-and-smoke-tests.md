@@ -45,7 +45,7 @@ Regarding the second requirement, we’d inevitably run into an issue if we atte
 
 To ensure we always have the latest build for testing, we create a new build from `develop` every 3 hours `*.apk`. As we’re only interested in crashes at this stage, we can use a crash-reporting tool,  such as Firebase Crashlytics, to inform us about new crashes.
 
-![](static/images/uploads/pasted-image-20231229194010.png)
+![](/static/images/uploads/pasted-image-20231229194010.png)
 
 ### Setting it up
 

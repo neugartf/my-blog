@@ -1,5 +1,4 @@
 ---
-path: mitx-build-with-thunderbolt-support
 title: mITX Build with Thunderbolt Support
 date: 2023-07-01T14:03:15.697Z
 description: I have one of those LG 4k UltraFine monitors for work at home that

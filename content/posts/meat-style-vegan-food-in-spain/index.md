@@ -1,5 +1,4 @@
 ---
-path: meat-style-vegan-food-in-spanish-supermarkets
 title: Meat style vegan food in Spanish supermarkets
 date: 2020-07-27T22:24:28.444Z
 description: A short overview on what's available in Spain in terms of meat substitutes.

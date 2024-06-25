@@ -1,5 +1,4 @@
 ---
-path: markus-lanz-als-podcast
 date: 2021-03-30T19:04:52.487Z
 title: Markus Lanz als Podcast
 description: Das Zweite Deutsche Fernsehen schafft es leider nicht die Sendung

@@ -1,5 +1,4 @@
 ---
-path: barcelona-is-opening-the-streets-for-pedestrians
 date: 2020-05-31T00:38:46.711Z
 title: Barcelona is opening the streets for pedestrians
 description: A quick read Barcelona's recent initiatives to create more space

@@ -1,11 +1,8 @@
----
-path: filling-the-gap-between-ui-and-smoke-tests
-title: Filling the Gap Between UI and Smoke Tests
-date: 2024-06-24T23:44:54.138Z
-description: At FREENOW we have been investigating how to stabilize our
-  releases. One of the missing pieces we have found are randomized tests that
-  can replicate almost any state in our app.
----
++++
+title = "Filling the Gap Between UI and Smoke Tests at FREENOW"
+date = "2024-06-24T23:44:54.138Z"
+description = "At FREENOW we have been investigating how to stabilize our releases. One of the missing pieces we have found are randomized tests that can replicate almost any state in our app."
++++
 With every FREENOW app release, we aim to create an increment that "just works™" for our drivers, and any crashes, especially those requiring a hotfix, should be promptly detected and resolved in the development lifecycle.
 
 Until now, we’ve relied on a combination of unit, UI, and smoke tests. However, over time, we’ve discovered that this leaves too many loopholes and we ended 2023 with a 30% Change Failure Rate[^1]. Comparing this with the rate that iOS had in the same year, it can be assumed that Android is more prone to this. Let’s see why.
@@ -46,6 +43,7 @@ Regarding the second requirement, we’d inevitably run into an issue if we atte
 To ensure we always have the latest build for testing, we create a new build from `develop` every 3 hours `*.apk`. As we’re only interested in crashes at this stage, we can use a crash-reporting tool,  such as Firebase Crashlytics, to inform us about new crashes.
 
 ![](pasted-image-20231229194010.png)
+[^4]
 
 ### Setting it up
 
@@ -127,12 +125,12 @@ We’ve already seen a certain payoff from running this for a few months; the ma
 
 We hope that with this article we can spark more advances in the Android testing space.
 
-*Thanks to Manuel Alfonso and Marcin Religa for proofreading this, my first blog post.And special thanks to Gabi Moreno and Usman Siddiqui, who’ve been working with me on this project.*
+*Thanks to Manuel Alfonso and Marcin Religa for proofreading this, my first blog post. And special thanks to Gabi Moreno and Usman Siddiqui, who’ve been working with me on this project.*
 
 ---
 
 [^1]: https://codeclimate.com/blog/change-failure-rate 
 [^2]: https://dagger.dev/
 [^3]: https://kotlinlang.org/docs/java-interop.html#null-safety-and-platform-types
-[^4]: Droid asset by [Nicky Lim](https://icon-icons.com/users/ah334sOoBVVE7GXS94Who/icon-sets/ "Designer"); [CC 4.0](https://creativecommons.org/licenses/by/4.0/)
+[^4]: Droid asset by [Nicky Lim](https://icon-icons.com/users/ah334sOoBVVE7GXS94Who/icon-sets/"Designer"); [CC 4.0](https://creativecommons.org/licenses/by/4.0/)
 [^5]: https://en.wikipedia.org/wiki/X86_virtualization#Intel_virtualization_(VT-x)

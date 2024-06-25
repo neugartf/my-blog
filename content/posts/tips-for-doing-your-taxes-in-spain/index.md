@@ -1,5 +1,4 @@
 ---
-path: tips-for-doing-your-taxes-in-spain
 date: 2020-05-11T22:24:28.444Z
 title: Tips for doing your taxes in Spain
 description: It hurts a bit to start this blog with an article about taxes, but

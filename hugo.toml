@@ -7,6 +7,7 @@ title = 'Hellow.'
     ShowToc = true
     ShowCodeCopyButtons = true
     GoatCounterCode = 'neugartf'
+    ShowShareButtons = true
 [params.homeInfoParams]
     Title = 'Hi there 👋'
     Content = "I'm Fabian Neugart. Welcome to my blog!"

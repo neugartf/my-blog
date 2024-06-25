@@ -5,7 +5,6 @@ date: 2024-06-24T23:44:54.138Z
 description: At FREENOW we have been investigating how to stabilize our
   releases. One of the missing pieces we have found are randomized tests that
   can replicate almost any state in our app.
-summary: " "
 ---
 With every FREENOW app release, we aim to create an increment that "just works™" for our drivers, and any crashes, especially those requiring a hotfix, should be promptly detected and resolved in the development lifecycle.
 
@@ -46,7 +45,7 @@ Regarding the second requirement, we’d inevitably run into an issue if we atte
 
 To ensure we always have the latest build for testing, we create a new build from `develop` every 3 hours `*.apk`. As we’re only interested in crashes at this stage, we can use a crash-reporting tool,  such as Firebase Crashlytics, to inform us about new crashes.
 
-![](../../images/uploads/pasted-image-20231229194010.png)
+![](pasted-image-20231229194010.png)
 
 ### Setting it up
 
@@ -58,24 +57,22 @@ Starting multiple emulators is done with the help of a simple Python script. We 
 
 ```python
 import time
-
 import subprocess
-  
 
 for i in range(0, 3):
 
 ...
-	subprocess.call(['docker', 
-	'run', 
+	subprocess.call(['docker',
+	'run',
 	'-d',
-	'-p', 
-	f'608{i}:6080', 
+	'-p',
+	f'608{i}:6080',
 	'-p' ,
 	f'472{i}:4723' ,
-	'--add-host=host.docker.internal:host-gateway', 
+	'--add-host=host.docker.internal:host-gateway',
 	'-e', 'EMULATOR_DEVICE=Samsung Galaxy S8',
-	'-e', 'WEB_VNC=true', 
-	'-e' ,'APPIUM=true', 
+	'-e', 'WEB_VNC=true',
+	'-e' ,'APPIUM=true',
 	'--device','/dev/kvm',
 	'-v',
 	'/home/mytaxi:/home/androidusr/test',
@@ -89,29 +86,27 @@ The only part missing is now the actual interaction with the app. Again, we are 
 
 ```python
 import unittest
-
 import random
-
 
 class TestAppium(unittest.TestCase):
 
 ...
 
 def test_app(self) -> None:
-    elements = self.driver.find_elements(
-             by=AppiumBy.XPATH, value="//*[@clickable='true']")
-    if len(elements) == 0:
-	    print("Nothing to click")
-	    self.driver.press_keycode(4)
-    else:
-	    random_button = random.choice(elements)
-	    
-    try:
+    elements = self.driver.find_elements(
+    by=AppiumBy.XPATH, value="//*[@clickable='true']")
+    if len(elements) == 0:
+        print("Nothing to click")
+	    self.driver.press_keycode(4)
+    else:
+	    random_button = random.choice(elements)
+
+    try:
 		print(f"Clicking on {random_button.text}")
 		random_button.click()
 		self.driver.implicitly_wait(500)
-    except:
-		print("Failed clicking")
+    except:
+        print("Failed clicking")
 
 ...
 ```

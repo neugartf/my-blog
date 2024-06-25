@@ -7,9 +7,10 @@ markup:
     renderer:
       unsafe: true
 params:
+  showCodeCopyButtons: true
   homeInfoParams:
-        Title: Hi there 👋
-        Content: I'm Fabian Neugart. Welcome to my blog!
+    Title: Hi there 👋
+    Content: I'm Fabian Neugart. Welcome to my blog!
   socialIcons:
     - name: mastodon
       url: "https://mastodon.green/@ngt"

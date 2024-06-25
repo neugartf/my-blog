@@ -1,2 +1,21 @@
 theme = 'PaperMod'
+baseURL = 'https://blog.neugartf.com/'
 author = 'Fabian Neugart'
+title = 'Hellow.'
+[params]
+    ShowBreadCrumbs = true
+    ShowToc = true
+    ShowCodeCopyButtons = true
+    GoatCounterCode = 'neugartf'
+[params.homeInfoParams]
+    Title = 'Hi there 👋'
+    Content = "I'm Fabian Neugart. Welcome to my blog!"
+[[params.socialIcons]]
+    name = 'mastodon'
+    url = "https://mastodon.green/@ngt"
+[[params.socialIcons]]
+    name = 'twitter'
+    url =  "https://mobile.twitter.com/_ngt__"
+[[params.socialIcons]]
+    name = 'github'
+    url = "https://github.com/neugartf"

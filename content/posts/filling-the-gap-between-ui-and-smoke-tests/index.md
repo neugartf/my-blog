@@ -19,6 +19,7 @@ Why? Here are a few reasons:
 - Android’s own building blocks: `Activity/Fragment` life cycles can be difficult to handle, making it difficult to reproduce `IllegalStateException` errors.
 
 These examples show that causes vary widely and only occur during runtime, making it impossible to handle them with traditional unit or integration tests. So, what other options do we have?
+
 ## Mitigation
 
 We could try to visit all paths in our app as part of our weekly smoke test, but this wouldn’t scale. Here’s why:
@@ -34,7 +35,7 @@ We have **four** requirements for a mostly automated solution, if we don’t go 
 3. Check with the latest (minified!) build
 4. Inform before the release about a new crash
 
-### Drafting A Solution
+## Drafting A Solution
 
 Based on the first requirement, we need to use a type of robot that imitates user interactions, for example, [UiAutomator2](https://github.com/appium/appium-uiautomator2-driver).
 
@@ -45,7 +46,7 @@ To ensure we always have the latest build for testing, we create a new build fro
 ![](pasted-image-20231229194010.png)
 [^4]
 
-### Setting it up
+## Setting it up
 
 With the solution drafted, we set up the necessary components on a Linux machine with VT-x[^5] support. Virtualization support is vital for the emulators to run smoothly.
 
@@ -109,7 +110,7 @@ def test_app(self) -> None:
 ...
 ```
 
-### Conclusion
+## Conclusion
 
 Now, let's be clear, this isn’t the ‘holy grail’ solution for catching all bugs before a release, nor is it a replacement for any parts of the quality process currently in place. But, running this kind of chaotic/fuzzy tool on your application is key to ensuring quality in mobile development, which we’d been widely overlooking.
 

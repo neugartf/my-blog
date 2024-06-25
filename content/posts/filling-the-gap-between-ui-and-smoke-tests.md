@@ -5,6 +5,7 @@ date: 2024-06-24T23:44:54.138Z
 description: At FREENOW we have been investigating how to stabilize our
   releases. One of the missing pieces we have found are randomized tests that
   can replicate almost any state in our app.
+summary: " "
 ---
 With every FREENOW app release, we aim to create an increment that "just works™" for our drivers, and any crashes, especially those requiring a hotfix, should be promptly detected and resolved in the development lifecycle.
 

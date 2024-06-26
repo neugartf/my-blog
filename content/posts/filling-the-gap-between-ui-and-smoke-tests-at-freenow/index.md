@@ -126,7 +126,7 @@ We’ve already seen a certain payoff from running this for a few months; the ma
 
 We hope that with this article we can spark more advances in the Android testing space.
 
-*Thanks to Manuel Alfonso and Marcin Religa for proofreading this, my first blog post. And special thanks to Gabi Moreno and Usman Siddiqui, who’ve been working with me on this project.*
+*Thanks to Manuel Alfonso and Marcin Religa for proofreading this, my first blog post. And special thanks to [Gabi Moreno](https://gabimoreno.soy) and Usman Siddiqui, who’ve been working with me on this project.*
 
 ---
 
